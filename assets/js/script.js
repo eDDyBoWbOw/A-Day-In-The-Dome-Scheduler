@@ -18,6 +18,8 @@
   // the values of the corresponding textarea elements. HINT: How can the id
   // attribute of each time-block be used to do this?
  
+  // can't figure out how to get words to save !! sorry but i did 
+  //figure live action time hahaha im great haha nah i need to work harder
   function loadEvents() {
     $('.time-block').each(function () {
       var storeKey = $(this).attr('id');
